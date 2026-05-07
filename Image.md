@@ -657,6 +657,7 @@
 - [AI Expand Image](https://aiexpandimage.org) - Advanced AI-driven tool for seamless, natural image expansion.. [Contact for Pricing]
 - [PixelBin](https://www.pixelbin.io) - Revolutionize digital assets with AI-driven optimization, seamless integration, and global delivery.. [Free Trial]
 - [Bonkers](https://www.getmerlin.in) - All-in-one AI tool for writing, summarizing, coding, and more.. [Freemium]
+- [TinyTools](https://tinytools-smoky.vercel.app/) - AI background remover that runs locally in the browser via WebAssembly (no upload, no signup); part of an open-source web utilities collection.. [Free]
 
 ### Text To Image
 
